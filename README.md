@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Schullerboy
 - 👀 I’m interested boobs and codes
-- 🌱 I’m currently learning python, postgresql , IA
+- 🌱 I’m currently learning python, postgresql, IA
 - 💞️ I’m looking to collaborate on everywhere
 - 📫 How to reach me > no way
 
